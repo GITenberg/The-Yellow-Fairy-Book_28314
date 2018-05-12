@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/79
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28314#The-Yellow-Fairy-Book
 gutenberg_issued: '2009-03-12'
 gutenberg_type: Text
 identifiers:
